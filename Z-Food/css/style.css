@@ -1,0 +1,59 @@
+body{
+    background: #334;
+    color: #fff;
+    background-image: url('../img/SJSU.jpg'); 
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+}
+
+.navbar {
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+}
+
+
+
+#home-section .dark-overlay {
+    padding-top: 172px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%
+    height: 100%;
+    min-height: 700px;
+    background: rgba(0, 0, 0, 0.7);
+    background-size: cover;
+}
+
+#home-section .home-inner {
+    padding-top: 150px;
+}
+
+#home-section .card-form {
+    opacity: 0.8;
+}
+
+#home-section .fa{
+    color: #008ed6;
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#exploreElabSection .fa, #shareElabSection .fa{
+    background: #334;
+    color:#fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+#hr1 {
+    border-top: 1px solid #fff;
+    background-color: #f8f9fa;
+}
+#createElabSection .fa {
+    background: #fff;
+    color: #334;
+    padding: 5px;
+    border-radius: 5px;
+}
