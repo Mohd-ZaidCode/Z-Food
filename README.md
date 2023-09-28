@@ -1,5 +1,5 @@
 
-## Z-Food - Food Review Website
+# Z-Food - Food Review Website
 
 Z-Food is a food review website that allows users to discover and review restaurants. This README provides an overview of the website's functionality and how to use it.
 
