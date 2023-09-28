@@ -5,4 +5,4 @@ if (!$conn) {
     die('Connection failed: ' . mysqli_connect_error());
 }
 
-$db = new PDO('mysql:host=localhost;dbname=', 'root', '');
+$db = new PDO('mysql:host=DB_HOST;dbname=', ' DB_PASS', '');
